@@ -27,7 +27,8 @@ Open the browser and hit this url http://0.0.0.0:5000/getnews
         #all the news articles
     ]
 }
-
+```
+```python
 2.error response
     status:ERROR,
     data:[

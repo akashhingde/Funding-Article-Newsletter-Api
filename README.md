@@ -28,8 +28,8 @@ Open the browser and hit this url http://0.0.0.0:5000/getnews
     ]
 }
 ```
-```python
 2.error response
+```python
     status:ERROR,
     data:[
         #null
